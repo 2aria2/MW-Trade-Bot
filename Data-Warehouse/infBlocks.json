@@ -1,0 +1,1422 @@
+[
+	{
+		"Block Name": "Oak Log",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Oak Planks",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Oak Wood",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Stripped Oak Log",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Stripped Oak Wood",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Acacia Log",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Acacia Planks",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Acacia Wood",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Stripped Acacia Log",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Stripped Acacia Wood",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Birch Log",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Birch Planks",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Birch Wood",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Stripped  Birch Log",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Stripped  Birch Wood",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Dark Oak Log",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Dark Oak Planks",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Dark Oak Wood",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Stripped  Dark Oak Log",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Stripped  Dark Oak Wood",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Jungle Log",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Jungle Planks",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Jungle Wood",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Stripped  Jungle Log",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Stripped  Jungle Wood",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Mangrove Log",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Mangrove Planks",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Mangrove Wood",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Stripped  Mangrove Log",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Stripped  Mangrove Wood",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Spruce Log",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Spruce Planks",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Spruce Wood",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Stripped  Spruce Log",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Stripped  Spruce Wood",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Cherry Log",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Cherry Planks",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Cherry Wood",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Stripped  Cherry Log",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Stripped  Cherry Wood",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "White Wool",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Orange Wool",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Magenta Wool",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Light Blue Wool",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Yellow Wool",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Lime Wool",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Pink Wool",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Gray Wool",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Light Gray Wool",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Cyan Wool",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Purple Wool",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Blue Wool",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Brown wool",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Green Wool",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Red Wool",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Black Wool",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "White Terracotta",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Light Gray Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Gray Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Black Terracotta",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Brown Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Red Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Orange Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Yellow Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Lime Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Green Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Cyan TerraCotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Light Blue Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Blue Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Purple Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Magenta Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Pink Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "White Glazed Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Orange Glazed Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Magenta Glazed Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Light Blue Glazed Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Yellow Glazed Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Lime Glazed Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Pink Glazed Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Gray Glazed Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Light Gray Glazed Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Cyan Glazed Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Purple Glazed Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Blue Glazed Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Brown Glazed Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Green Glazed Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Red Glazed Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Black Glazed Terracotta",
+		"Price": "B"
+	},
+	{
+		"Block Name": "White Concrete",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Orange Concrete",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Magenta Concrete",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Light Blue Concrete",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Yellow Concrete",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Lime Concrete",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Pink Concrete",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Gray Concrete",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Light Gray Concrete",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Cyan Concrete",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Purple Concrete",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Blue Concrete",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Brown Concrete",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Green Concrete",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Red Concrete",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Black Concrete",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "White Concrete Powder",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Orange Concrete Powder",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Magenta Concrete Powder",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Light Blue Concrete Powder",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Yellow Concrete Powder",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Lime Concrete Powder",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Pink Concrete  Powder",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Gray Concrete Powder",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Light Gray Concrete Powder",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Cyan Concrete Powder",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Purple Concrete Powder",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Blue Concrete Powder",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Brown Concrete Powder",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Green Concrete Powder",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Red Concrete Powder",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Black Concrete Powder",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "White Stained Glass",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Red Stained Glass",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Orange Stained Glass",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Pink Stained Glass",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Yellow Stained Glass",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Lime Stained Glass",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Green Stained Glass",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Light Blue Stained Glass",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Cyan Stained Glass",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Blue Stained Glass",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Magenta Stained Glass",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Purple Stained Glass",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Brown Stained Glass",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Gray Stained Glass",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Light Gray Stained Glass",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Black Stained Glass",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Tinted Glass",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Glass Block",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Glass Pane",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "White Glass Pane",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Red Glass Pane",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Orange Glass Pane",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Pink Glass Pane",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Yellow Glass Pane",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Lime Glass Pane",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Green Glass Pane",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Light blue Glass Pane",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Cyan Glass Pane",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Blue Glass Pane",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Magenta Glass Pane",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Purple Glass Pane",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Brown Glass Pane",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Grey Glass Pane",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Light Grey Glass Pane",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Black Glass Pane",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "BlackStone",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Chiseled Polished Blackstone",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Cracked Polished Blackstone Bricks",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Gilded Blackstone",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Polished Blackstone",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Polished Blackstone Bricks",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Basalt",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Polished Basalt",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Smooth Basalt",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Crimson Hyphae",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Crimson Nylium",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Crimson Planks",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Crimson Stem",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Stripped Crimson Hyphae",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Stripped Crimson Stem",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Nether Wart Block",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Block of Quartz",
+		"Price": "BBB"
+	},
+	{
+		"Block Name": "Chiseled Quartz Block",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Nether Quartz Ore",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Quartz Pillar",
+		"Price": "BBB"
+	},
+	{
+		"Block Name": "Smooth Quartz Block",
+		"Price": "AAA"
+	},
+	{
+		"Block Name": "Quartz Bricks",
+		"Price": "BBB"
+	},
+	{
+		"Block Name": "Nether Bricks",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Netherrack",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Red Nether Bricks",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Magma Block",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Soul Sand",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Soul Soil",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Stripped Warped Hyphae",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Stripped Warped Stem",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Warped Hyphae",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Warped Nylium",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Warped Planks",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Warped Stem",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Warped Wart Block",
+		"Price": "C"
+	},
+	{
+		"Block Name": "End Stone",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "End Stone Bricks",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Obsidian",
+		"Price": "BBB"
+	},
+	{
+		"Block Name": "Crying Obsidian",
+		"Price": "BBB"
+	},
+	{
+		"Block Name": "Respawn Anchor",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Purpur Block",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Purpur Pillar",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Sand",
+		"Price": "B"
+	},
+	{
+		"Block Name": "FarmLand",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Mud",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Clay",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Red Sand",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Coarse Dirt",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Rooted Dirt",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Podzol",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Mycellium",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Dirt Path",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Dirt",
+		"Price": "BBB"
+	},
+	{
+		"Block Name": "Grass Block",
+		"Price": "AAA"
+	},
+	{
+		"Block Name": "Block Of Iron",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Block Of Raw Iron",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Chain",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Deepslate Iron Ore",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Iron Bars",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Iron Ore",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Block Of Gold",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Block Of Raw Gold",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Deepslate Gold Ore",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Gold Ore",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Deepslate Diamond Ore",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Diamond Block",
+		"Price": "BBB"
+	},
+	{
+		"Block Name": "Diamond Ore",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Deepslate Emerald Ore",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Emerald Block",
+		"Price": "BBB"
+	},
+	{
+		"Block Name": "Emerald Ore",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Netherite",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Block of Amethlyst",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Budding Amethyst",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Block Of Lapiz Lazuli",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Deepslate Lapis Lazuli Ore",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Lapiz Lazuli Ore",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Block Of Coal",
+		"Price": "A"
+	},
+	{
+		"Block Name": "Coal Ore",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Deepslate Coal Ore",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Block Of Copper",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Block of Raw Copper",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Cut Copper",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Deepslate Copper Ore",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Oxidized Copper",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Oxidized Cut Copper",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Waxed Cut Copper",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Waxed Oxidized Copper",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Waxed Oxidized Cut Copper",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Copper Ore",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Deepslate Copper Ore",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Raw Copper",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Beehive",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Smithing Table",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Composter",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Loom",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Note block",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Slime block",
+		"Price": "BBB"
+	},
+	{
+		"Block Name": "Honey block",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Beenest",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Bookshelf",
+		"Price": "BBB"
+	},
+	{
+		"Block Name": "Chizeled Bookshelf",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Sculk block",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Stone",
+		"Price": "AA"
+	},
+	{
+		"Block Name": "Smooth Stone",
+		"Price": "AA"
+	},
+	{
+		"Block Name": "CobbleStone",
+		"Price": "AA"
+	},
+	{
+		"Block Name": "Andesite",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Polished Andesite",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Diorite",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Polished Diorite",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Granite",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Polished Granite",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Sandstone",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Chiseled SandStone",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Smooth SandStone",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Red Sandstone",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Chiseled Red Sandstone",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Smooth Red Sandstone",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Cut Sandstone",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Cut Red Sandstone",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Deepslate",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Infested Deepslate",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Deepslate Tiles",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Cracked Deepslate Tiles",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Deepslate Bricks",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Cracked Deepslate Bricks",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Chiseled Deepslate",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Cobbled Deepslate",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Polished Deepslate",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Reinforced Deepslate",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Stone Bricks",
+		"Price": "AA"
+	},
+	{
+		"Block Name": "Cracked Stone Bricks",
+		"Price": "A"
+	},
+	{
+		"Block Name": "Chiseled Stone Bricks",
+		"Price": "A"
+	},
+	{
+		"Block Name": "Mossy Cobblestone",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Mossy Stone Bricks",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Bricks",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Packed Mud",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Mud Bricks",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Drip Stone",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Calcite",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Gravel Block",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Tuff",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "End Rod",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Glowstone",
+		"Price": "A"
+	},
+	{
+		"Block Name": "Shroomlight",
+		"Price": "BBB"
+	},
+	{
+		"Block Name": "Ochre Froglight",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Pearlescent Froglight",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Verdant Froglight",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Jack o'Lantern",
+		"Price": "BBB"
+	},
+	{
+		"Block Name": "Redstone Lamp",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Sea Lantern",
+		"Price": "BBB"
+	},
+	{
+		"Block Name": "Oak Leaves",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Spruce Leaves",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Birch Leaves",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Jungle Leaves",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Acacia Leaves",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Dark Oak Leaves",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Azalea Leaves",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Flowering Azalea Leaves",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Mangrove Leaves",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Cherry Leaves",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Brown Mushroom Block",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Mushroom Stem",
+		"Price": "A"
+	},
+	{
+		"Block Name": "Red Mushroom Block",
+		"Price": "BBB"
+	},
+	{
+		"Block Name": "Cactus",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Carved Pumpkin",
+		"Price": "BBB"
+	},
+	{
+		"Block Name": "Hay Bale",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Melon",
+		"Price": "A"
+	},
+	{
+		"Block Name": "Pumpkin",
+		"Price": "BBB"
+	},
+	{
+		"Block Name": "Moss Block",
+		"Price": "A"
+	},
+	{
+		"Block Name": "Block of Bamboo",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Block of Stripped Bamboo",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Bamboo Planks",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Bamboo Mosaic",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Bamboo Sign",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Bone Block",
+		"Price": "BBB"
+	},
+	{
+		"Block Name": "Mangrove Roots",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Muddy Mangrove Roots",
+		"Price": "C"
+	},
+	{
+		"Block Name": "Brain Coral Block",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Bubble Coral Block",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Fire Coral Block",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Horn Coral Block",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Tube Coral Block",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Blue Ice",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Ice",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Packed Ice",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Snow Block",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Dried Kelp Block",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Sponge",
+		"Price": "BBB"
+	},
+	{
+		"Block Name": "Dark Prismarine",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Prismarine",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Prismarine Bricks",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Redstone Block",
+		"Price": "A"
+	},
+	{
+		"Block Name": "Observer Block",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Piston Block",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Sticky Piston Block",
+		"Price": "BB"
+	},
+	{
+		"Block Name": "Target Block",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Daylight Detector",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Redstone Ore",
+		"Price": "CC"
+	},
+	{
+		"Block Name": "Acient Debris",
+		"Price": "B"
+	},
+	{
+		"Block Name": "Netherite",
+		"Price": "BB"
+	}
+]

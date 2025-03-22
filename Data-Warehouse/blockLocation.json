@@ -1,0 +1,2594 @@
+[
+	{
+		"Block": "Stone",
+		"Location": "Everywhere",
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Granite",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Polished Granite",
+		"Location": "Bottom floor of mall",
+		"Coordinates": "71, 71, 399",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Diorite",
+		"Location": "3rd floor of mall",
+		"Coordinates": "77, 86, 389",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Polished Diorite Slabs",
+		"Location": "Birth themed building south of spawn",
+		"Coordinates": "9, 67, 352",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Andesite",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Polished Andesite",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Grass",
+		"Location": "Everywhere",
+		"Coordinates": null,
+		"Tool": "Shovel (Silk)",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Dirt",
+		"Location": "lazy",
+		"Coordinates": null,
+		"Tool": "Shovel ",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Podzol",
+		"Location": "under armorers",
+		"Coordinates": "-52, 62, 295",
+		"Tool": "Shovel (Silk)",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Cobblestone",
+		"Location": "Everywhere",
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Sand",
+		"Location": "Everywhere",
+		"Coordinates": null,
+		"Tool": "Shovel",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Red Sand Stone",
+		"Location": "Castle loot room",
+		"Coordinates": "167, 73, 184",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Red Sand",
+		"Location": "Red Sand arena",
+		"Coordinates": "121, 68, 460",
+		"Tool": "Shovel",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Gravel",
+		"Location": "top of sewer arena",
+		"Coordinates": "-4, 34, 319",
+		"Tool": "Shovel",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Gold Ore",
+		"Location": "Bottom of the old well",
+		"Coordinates": "-66, 1, 224",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Iron Ore",
+		"Location": "under armorers",
+		"Coordinates": "-52, 62, 295",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Coal Ore",
+		"Location": "Top floor of powder enthusiast",
+		"Coordinates": "-51, 79, 364",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Logs (Oak)",
+		"Location": "fake spawn arena",
+		"Coordinates": "-150, 72, 189",
+		"Tool": "Axe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Logs (Spruce)",
+		"Location": "near the farmer place",
+		"Coordinates": "-26, 71, 241",
+		"Tool": "Axe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Logs (Birch)",
+		"Location": "across the street from mall",
+		"Coordinates": "32, 70, 370",
+		"Tool": "Axe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Logs (Jungle)",
+		"Location": "oasis",
+		"Coordinates": "-156, 71, 439",
+		"Tool": "Axe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Logs (Acacia)",
+		"Location": "house at east gate",
+		"Coordinates": "164, 74, 346",
+		"Tool": "Axe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Logs (Dark Oak)",
+		"Location": "house at east gate",
+		"Coordinates": "168, 69, 365",
+		"Tool": "Axe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Sapling (Oak)",
+		"Location": "2nd floor of mall",
+		"Coordinates": "40, 85, 403",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Sapling (Spruce)",
+		"Location": "2nd floor of mall",
+		"Coordinates": "40, 85, 404",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Sapling (Birch)",
+		"Location": "2nd floor of mall",
+		"Coordinates": "40, 85, 405",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Sapling (Jungle)",
+		"Location": "2nd floor of mall",
+		"Coordinates": "40, 85, 406",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Sapling (Acacia)",
+		"Location": "2nd floor of mall",
+		"Coordinates": "40, 85, 407",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Sapling (Dark Oak)",
+		"Location": "2nd floor of mall",
+		"Coordinates": "61, 79, 391",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Sponge",
+		"Location": "Top floor of powder enthusiast",
+		"Coordinates": "-51, 79, 364",
+		"Tool": "Hoe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Glass",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Lapis Lazuli Ore",
+		"Location": "Under castle",
+		"Coordinates": "138, 65, 214",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Lapis Lazuli Block",
+		"Location": "There are none of these in spawn don't even try and tell me",
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Dispenser",
+		"Location": "hell arena under deco",
+		"Coordinates": "-124, 10, 6",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Sandstone",
+		"Location": "under west desert",
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Sandstone (Chiseled)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Sandstone (Smooth)",
+		"Location": "Birch themed building south of spawn",
+		"Coordinates": "2, 67, 349",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Note Block",
+		"Location": "2nd floor at mall",
+		"Coordinates": "58, 79, 426",
+		"Tool": "Axe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Bed (Block)",
+		"Location": "Decorators",
+		"Coordinates": null,
+		"Tool": "Axe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Rail (Powered)",
+		"Location": "Rail shop at the mall",
+		"Coordinates": "77, 87, 387",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Rail (Detector)",
+		"Location": "Rail shop at the mall",
+		"Coordinates": "77, 87, 387",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Sticky Piston",
+		"Location": "Top floor of magic hotel",
+		"Coordinates": "20, 78, 221",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Cobweb",
+		"Location": "Volleyball net by the pool",
+		"Coordinates": "-30, 70, 357",
+		"Tool": "Shears",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Dead Shrub",
+		"Location": "2nd floor of mall",
+		"Coordinates": "75, 79, 383",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Piston",
+		"Location": "Decorators",
+		"Coordinates": "-177, 203, -4",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "White Wool",
+		"Location": "Auction house",
+		"Coordinates": "32, 72, 330",
+		"Tool": "Shears",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Orange Wool",
+		"Location": "Bank",
+		"Coordinates": "45, 71, 215",
+		"Tool": "Shears",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Magenta Wool",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Shears",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Light Blue Wool",
+		"Location": "deco baloons",
+		"Coordinates": "-183, 250, 0",
+		"Tool": "Shears",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Yellow Wool",
+		"Location": "Floor of barber",
+		"Coordinates": "-31, 72, 435",
+		"Tool": "Shears",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Lime Wool",
+		"Location": "farmer",
+		"Coordinates": "-38, 66, 241",
+		"Tool": "Shears",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Pink Wool",
+		"Location": "rosy cheeks of statue",
+		"Coordinates": "-20, 90, 105",
+		"Tool": "Shears",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Gray Wool",
+		"Location": "statue at north",
+		"Coordinates": "-20, 89, 109",
+		"Tool": "Shears",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Light Gray Wool",
+		"Location": "statue at north",
+		"Coordinates": "-20, 89, 110",
+		"Tool": "Shears",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Cyan Wool",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Shears",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Purple Wool",
+		"Location": "Bottom floor of powder enthusiast",
+		"Coordinates": "-49, 70, 365",
+		"Tool": "Shears",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Blue Wool",
+		"Location": "Bank",
+		"Coordinates": "45, 71, 215",
+		"Tool": "Shears",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Brown Wool",
+		"Location": "Ceiling of barber",
+		"Coordinates": "-33, 77, 438",
+		"Tool": "Shears",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Green Wool",
+		"Location": "House next to castle",
+		"Coordinates": "169, 72, 236",
+		"Tool": "Shears",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Red Wool",
+		"Location": "fake spawn arena",
+		"Coordinates": "-139, 67, 209",
+		"Tool": "Shears",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Black Wool",
+		"Location": "fake spawn arena",
+		"Coordinates": "-114, 66, 201",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Dandelion",
+		"Location": "around north",
+		"Coordinates": "-65, 50, 60",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Blue Orchid",
+		"Location": "top of mall",
+		"Coordinates": "61, 94, 404",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Allium",
+		"Location": "top of mall",
+		"Coordinates": "84, 94, 403",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Red Tulip",
+		"Location": "top of mall",
+		"Coordinates": "65, 94, 389",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Orange Tulip",
+		"Location": "top of mall",
+		"Coordinates": "57, 94, 393",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "White Tulip",
+		"Location": "at north",
+		"Coordinates": "45, 66, 59",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Pink Tulip",
+		"Location": "top of mall",
+		"Coordinates": "84, 94, 403",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Oxeye Daisy",
+		"Location": "top of mall",
+		"Coordinates": "81, 94, 386",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Block of Gold",
+		"Location": "If only",
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Block of Iron",
+		"Location": "North gate",
+		"Coordinates": "-20, 64, 42",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Brick",
+		"Location": "building by west gate",
+		"Coordinates": "-84, 66, 272",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "TNT",
+		"Location": "Bank",
+		"Coordinates": "33, 71, 193",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Bookshelf",
+		"Location": "top of mall",
+		"Coordinates": "72, 103, 386",
+		"Tool": "Axe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Moss Stone",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Obsidian",
+		"Location": "See echests",
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Torch",
+		"Location": "See coal blocks",
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Mob Spawner",
+		"Location": "Thems were the days",
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Chest",
+		"Location": "Auction house",
+		"Coordinates": "41, 69, 317",
+		"Tool": "Axe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Redstone Wire",
+		"Location": "See redstone blocks",
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Diamond Ore",
+		"Location": "if only",
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Block of Diamond",
+		"Location": "if only",
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Furnace",
+		"Location": "deco",
+		"Coordinates": "-167, 202, -15",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Rail",
+		"Location": "Rail shop at the mall",
+		"Coordinates": "77, 87, 387",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Lever",
+		"Location": "Top of castle",
+		"Coordinates": "162, 87, 196",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stone Pressure Plate",
+		"Location": "top of farmers",
+		"Coordinates": "-40, 75, 248",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Iron Door (Block)",
+		"Location": "See iron blocks",
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Wooden Pressure Plate",
+		"Location": "See logs",
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Redstone Ore",
+		"Location": "sewer arena under spawn",
+		"Coordinates": "-15, 16, 332",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Redstone Torch",
+		"Location": "Behind the skull's eyes in the nether arena under deco ",
+		"Coordinates": "-118, 31, 12",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Button (Stone)",
+		"Location": "See stone",
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Snow block",
+		"Location": "Bottom floor of powder enthusiast",
+		"Coordinates": "-51, 69, 362",
+		"Tool": "Shovel",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Ice",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Cactus",
+		"Location": "Oasis",
+		"Coordinates": "-163, 71, 476",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Clay Block",
+		"Location": "Inside the building between castle and bank",
+		"Coordinates": "70, 78, 213",
+		"Tool": "Shovel",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Sugar Cane",
+		"Location": "North east arena",
+		"Coordinates": "132, 67, -29",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Jukebox",
+		"Location": "4th floor of magic hotel",
+		"Coordinates": "20, 84, 222",
+		"Tool": "Axe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Pumpkin",
+		"Location": "Decorators",
+		"Coordinates": "-200, 202, -8",
+		"Tool": "Axe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Netherrack",
+		"Location": "Nether arena under Decorators",
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Soul Sand",
+		"Location": "That one trader guy near north",
+		"Coordinates": "42, 40, 73",
+		"Tool": "Shovel",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Glowstone",
+		"Location": "Area above the little room at north",
+		"Coordinates": "-12, 101, 163",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Jack-O-Lantern",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Axe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Redstone Repeater ",
+		"Location": "above sewer arena",
+		"Coordinates": "-6, 36, 308",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass (White)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass (Orange)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass (Magenta)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass (Light Blue)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass (Yellow)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass (Lime)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass (Pink)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass (Gray)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass (Light Gray)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass (Cyan)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass (Purple)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass (Blue)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass (Brown)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass (Green)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass (Red)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass (Black)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stone Brick",
+		"Location": "See stone",
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Mossy Stone Brick",
+		"Location": "outside of auction house",
+		"Coordinates": "20, 77, 301",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Cracked Stone Brick",
+		"Location": "oasis",
+		"Coordinates": "-191, 79, 476",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Chiseled Stone Brick",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Brown Mushroom (Block)",
+		"Location": "New building by west gate",
+		"Coordinates": "-89, 84, 261",
+		"Tool": "Axe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Red Mushroom (Block)",
+		"Location": "2nd floor of mall",
+		"Coordinates": "58, 79, 427",
+		"Tool": "Axe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Iron Bars",
+		"Location": "See iron blocks",
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Glass Pane",
+		"Location": "just cook the fuckin glass",
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Melon (Block)",
+		"Location": "deco",
+		"Coordinates": "-199, 202, -3",
+		"Tool": "Axe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Vines",
+		"Location": "near magic hotel",
+		"Coordinates": "21, 64, 205",
+		"Tool": "Shears",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Mycelium",
+		"Location": "hell arena under deco",
+		"Coordinates": "-157, 10, 14",
+		"Tool": "Shovel (silk)",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Lily Pad",
+		"Location": "Water by castle",
+		"Coordinates": "128, 66, 237",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Nether Brick",
+		"Location": "Nether arena under decorators",
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Red Nether Brick",
+		"Location": "New building by west gate",
+		"Coordinates": "-91, 66, 270",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Red Nether Brick Slabs",
+		"Location": "New building by west gate",
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Red Nether Brick Stairs",
+		"Location": "New building by west gate",
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Red Nether Brick Walls",
+		"Location": "New building by west gate",
+		"Coordinates": "-96, 27, 293",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Enchantment Table",
+		"Location": "Castle",
+		"Coordinates": "156, 71, 227",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Brewing Stand (Block)",
+		"Location": "Crazed Alchemist",
+		"Coordinates": "22, 67, 239",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Cauldron (Block)",
+		"Location": "alchemists building",
+		"Coordinates": "22, 67, 239",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "End Stone",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Dragon Egg",
+		"Location": "If only",
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Redstone Lamp",
+		"Location": "eyes  of skull arena under deco",
+		"Coordinates": "-118, 31, 12",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Cocoa Plant",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Emerald Ore",
+		"Location": "sewer arena under spawn",
+		"Coordinates": "-15, 16, 332",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Ender Chest",
+		"Location": "Bank",
+		"Coordinates": "46, 71, 187",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Tripwire Hook",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "String",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Block of Emerald",
+		"Location": "If only",
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Command Block",
+		"Location": "If only",
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Beacon",
+		"Location": "eh would be kinda cool",
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Mossy Cobblestone",
+		"Location": "tunnel near bank",
+		"Coordinates": "79, 64, 246",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Flower Pot (Block)",
+		"Location": "top of farmer's",
+		"Coordinates": "-42, 75, 243",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Button (Wood)",
+		"Location": "see logs",
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Head Block (Skeleton)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Head Block (Wither)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Head Block (Zombie)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Head Block (Steve)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Head Block (Creeper)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Anvil",
+		"Location": "ganvil",
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Trapped Chest",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Weighted Pressure Plate (Light) (Gold)",
+		"Location": "bottom floor of mall",
+		"Coordinates": "25, 71, 432",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Weighted Pressure Plate (Heavy) (Iron)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Redstone Comparator",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Daylight Sensor",
+		"Location": "Top of castle",
+		"Coordinates": "162, 87, 196",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Block of Redstone",
+		"Location": "roof of armorer",
+		"Coordinates": "-15, 79, 343",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Nether Quartz Ore",
+		"Location": "hell arena under deco",
+		"Coordinates": " -163, 10, 24",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Hopper",
+		"Location": "Bottom floor of mall",
+		"Coordinates": "91, 73, 378",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Quartz Block",
+		"Location": "Castle",
+		"Coordinates": "149, 72, 208",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Quartz Stairs",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Rail (Activator)",
+		"Location": "Rail shop at the mall",
+		"Coordinates": "77, 87, 387",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Dropper",
+		"Location": "crazed alchemist",
+		"Coordinates": "22, 67, 239",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Raw Terra",
+		"Location": "Forbidden tomato guy",
+		"Coordinates": "-30, 97, 180\n",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "White Terracotta",
+		"Location": "Forbidden tomato guy",
+		"Coordinates": "-30, 97, 180\n",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Orange Terracotta",
+		"Location": "Castle",
+		"Coordinates": "115, 71, 223",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Magenta Terracotta",
+		"Location": "Top floor of magic hotel",
+		"Coordinates": "20, 78, 220",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Light Blue Terracotta",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Yellow Terracotta",
+		"Location": "Room above west gate",
+		"Coordinates": "-70, 85, 320",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Lime Terracotta",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Pink Terracotta",
+		"Location": "Castle",
+		"Coordinates": "166, 71, 211",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": " Gray Terracotta",
+		"Location": "Castle",
+		"Coordinates": "166, 71, 212",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Light Gray Terracotta",
+		"Location": "building near mall",
+		"Coordinates": "25, 93, 427",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Cyan Terracotta",
+		"Location": "hell arena under deco",
+		"Coordinates": "-191, 23, 3",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Purple Terracotta",
+		"Location": "Under the roof of a building south of auction house",
+		"Coordinates": "30, 93, 360",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Blue Terracotta",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Brown Terracotta",
+		"Location": "Castle",
+		"Coordinates": "165, 70, 223",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Green Terracotta",
+		"Location": "Castle",
+		"Coordinates": "115, 71, 223",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Red Terracotta",
+		"Location": "Top floor of magic hotel",
+		"Coordinates": "20, 78, 220",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Black Terracotta",
+		"Location": "Forbidden tomato guy",
+		"Coordinates": "-30, 97, 180",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "White Glazed Terracotta",
+		"Location": "New building by west gate",
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Orange Glazed Terracotta",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Magenta Glazed Terracotta",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Light Blue  Glazed Terracotta",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Yellow Glazed Terracotta",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Lime Glazed Terracotta",
+		"Location": "2nd floor of mall",
+		"Coordinates": "89, 79, 387",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Pink Glazed Terracotta",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": " Gray Glazed Terracotta",
+		"Location": "top of mall",
+		"Coordinates": "72, 103, 386",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Light Gray Glazed Terracotta",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Cyan Glazed Terracotta",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Purple Glazed Terracotta",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Blue Glazed Terracotta",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Brown Glazed Terracotta",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Green Glazed Terracotta",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Red  GlazedTerracotta",
+		"Location": "New building by west gate",
+		"Coordinates": "-96, 71, 262",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Black Glazed Terracotta",
+		"Location": "Top floor of strip club",
+		"Coordinates": "-37, 78, 370",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass Pane (White)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass Pane (Orange)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass Pane (Magenta)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass Pane (Light Blue)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass Pane (Yellow)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass Pane (Lime)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass Pane (Pink)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass Pane (Gray)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass Pane (Light Gray)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass Pane (Cyan)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass Pane (Purple)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass Pane (Blue)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass Pane (Brown)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass Pane (Green)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass Pane (Red)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Stained Glass Pane (Black)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Slime Block",
+		"Location": "thing near mall",
+		"Coordinates": "25, 93, 427",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Iron Trapdoor",
+		"Location": "See iron blocks",
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Hay Bale",
+		"Location": "Decorators",
+		"Coordinates": null,
+		"Tool": "Hoe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Carpet (White)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Carpet (Orange)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Carpet (Magenta)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Carpet (Light Blue)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Carpet (Yellow)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Carpet (Lime)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Carpet (Pink)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Carpet (Gray)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Carpet (Light Gray)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Carpet (Cyan)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Carpet (Purple)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Carpet (Blue)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Carpet (Brown)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Carpet (Green)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Carpet (Red)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Carpet (Black)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Block of Coal",
+		"Location": "Above the sewer arena",
+		"Coordinates": "-15, 37, 302",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Packed Ice",
+		"Location": "Castle",
+		"Coordinates": "156, 71, 227",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Sunflower",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Lilac",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Double Tallgrass",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Large Fern",
+		"Location": "2nd floor of mall",
+		"Coordinates": "75, 79, 383",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Rose Bush",
+		"Location": "farmer guy",
+		"Coordinates": "-45, 66, 236",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Peony",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "White Concrete",
+		"Location": "New building by west gate",
+		"Coordinates": "-97, 73, 292",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Orange Concrete",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Magenta Concrete",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Light Blue Concrete",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Yellow Concrete",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": "*",
+		"Credits": null
+	},
+	{
+		"Block": "Lime Concrete",
+		"Location": "New building by west gate",
+		"Coordinates": "-92, 68, 235",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Pink Concrete",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": " Gray Concrete",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Light Gray Concrete",
+		"Location": "New building by west gate",
+		"Coordinates": "-89, 84, 261",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Cyan Concrete",
+		"Location": "New building by west gate",
+		"Coordinates": "-92, 68, 235",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Purple Concrete",
+		"Location": "Top floor of strip club",
+		"Coordinates": "-36, 78, 370",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Blue Concrete",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Brown Concrete",
+		"Location": "New building by west gate",
+		"Coordinates": "-89, 84, 261",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Green Concrete",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Red Concrete",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Black Concrete",
+		"Location": "New building by west gate",
+		"Coordinates": "-97, 73, 292",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Sign",
+		"Location": "See logs",
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Wooden Door",
+		"Location": "See logs",
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Iron Door",
+		"Location": "See iron blocks",
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Redstone Dust",
+		"Location": "See redstone blocks",
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Bed",
+		"Location": "deco",
+		"Coordinates": "-178, 207, -2",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Nether Wart",
+		"Location": "nether arena under deco",
+		"Coordinates": "-133, 10, 0",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Item Frame",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Redstone Comparator",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Music Disk (13)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Music Disk (Cat)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Music Disk (Blocks)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Music Disk (Chrip)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Music Disk (Far)",
+		"Location": "4th floor of magic hotel",
+		"Coordinates": "20, 84, 222",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Music Disk (Mall)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Music Disk (Mellohi)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Music Disk (Stal)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Music Disk (Strad)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Music Disk (Ward)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Music Disk (11) (Broken)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Music Disk (Wait)",
+		"Location": "inside the king statue's chest",
+		"Coordinates": "-12, 81, 133",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Pigstep",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Sea Lanterns",
+		"Location": "near the cake seller guy",
+		"Coordinates": "-44, 66, 189",
+		"Tool": "Pickaxe (silk)",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Composters",
+		"Location": "2nd floor of mall",
+		"Coordinates": "43, 79, 401",
+		"Tool": "Axe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Banners (all sans grey, light grey, white and light blue)",
+		"Location": "Bottom floor of mall",
+		"Coordinates": "56, 71, 425",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Banners (white)",
+		"Location": "Castle",
+		"Coordinates": "154, 71, 217",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Banners (light blue)",
+		"Location": "Bottom floor of mall",
+		"Coordinates": "76, 71, 411",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Smoker",
+		"Location": "2nd floor of mall",
+		"Coordinates": "75, 79, 411",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Blast Furnace",
+		"Location": "New building by west gate",
+		"Coordinates": "-92, 84, 273",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Lecturn",
+		"Location": "top of mall",
+		"Coordinates": "72, 103, 386",
+		"Tool": "Axe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Sea Pickles",
+		"Location": "Bottom floor of mall",
+		"Coordinates": "77, 72, 383",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "End Rods",
+		"Location": "top floor of strip club",
+		"Coordinates": "-37, 78, 370",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Purpur blocks",
+		"Location": "top floor of strip club",
+		"Coordinates": "-37, 78, 373",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Campfires",
+		"Location": "roof of mal",
+		"Coordinates": "67, 108, 397",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Barrels",
+		"Location": "Bottom floor of mall",
+		"Coordinates": "87, 71, 379",
+		"Tool": "Axe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Scaffolding",
+		"Location": "Bottom floor of mall",
+		"Coordinates": "87, 71, 380",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Lanterns",
+		"Location": "top floor of  farmer ",
+		"Coordinates": "-41, 76, 249",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Dead Fire Coral",
+		"Location": "2nd floor of mall",
+		"Coordinates": "78, 79, 382",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Dead Horn Coral",
+		"Location": "3rd floor of mall",
+		"Coordinates": "80, 86, 382",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Sea Grass",
+		"Location": "Bottom floor of mall",
+		"Coordinates": "77, 72, 383",
+		"Tool": "Shears",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Dead Tube Coral",
+		"Location": "2nd floor of mall",
+		"Coordinates": "78, 79, 382",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "sweet berries",
+		"Location": "Bottom floor of mall",
+		"Coordinates": "56, 71, 396",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "bone meal",
+		"Location": "Bottom floor of mall",
+		"Coordinates": "28, 71, 422",
+		"Tool": "Axe",
+		"Misc": "Break the composters",
+		"Credits": null
+	},
+	{
+		"Block": "Dead Bubble Coral",
+		"Location": "2nd floor of mall",
+		"Coordinates": "85, 79, 386",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "prismarine brick slabs",
+		"Location": "Bottom floor of mall",
+		"Coordinates": "77, 72, 383",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Smooth stone",
+		"Location": "Bottom floor of mall",
+		"Coordinates": "54, 71, 414",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Grindstone",
+		"Location": "Farmer",
+		"Coordinates": "-33, 66, 238",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Bell",
+		"Location": "2nd floor of mall",
+		"Coordinates": "75, 79, 413",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Petrified oak slabs",
+		"Location": "dock at east",
+		"Coordinates": "123, 67, 390",
+		"Tool": "Pickaxe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "azure bluet",
+		"Location": "top of mall",
+		"Coordinates": "83, 94, 405",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "poppy",
+		"Location": "top of mall",
+		"Coordinates": "82, 94, 404",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "corn flower",
+		"Location": "top of mall",
+		"Coordinates": "59, 95, 388",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "coarse dirt",
+		"Location": "hella arena under deco",
+		"Coordinates": "-160, 10, 5",
+		"Tool": "Shovel",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "crafting table",
+		"Location": "sewer arena under spawn",
+		"Coordinates": "-13, 19, 312",
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Both flavours of nylium",
+		"Location": "hell arena under spawn",
+		"Coordinates": "https://imgur.com/a/T0L6UX2",
+		"Tool": "Pickaxe",
+		"Misc": "Click the link and build the machine shown in order to farm nylium at spawn. ",
+		"Credits": null
+	},
+	{
+		"Block": "Leaves (Oak)",
+		"Location": "tree at spawn",
+		"Coordinates": "-11, 76, 332",
+		"Tool": "Hoe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Leaves(Spruce)",
+		"Location": "arena at north east",
+		"Coordinates": "188, 71, -13",
+		"Tool": "Hoe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Leaves (Birch)",
+		"Location": "birch tree at north",
+		"Coordinates": "69, 109, -71",
+		"Tool": "Hoe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Leaves (Jungle)",
+		"Location": "jungle tree at north",
+		"Coordinates": "49, 95, -76",
+		"Tool": "Hoe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Leaves (Acacia)",
+		"Location": "acacia tree at north east",
+		"Coordinates": "203, 73, -37",
+		"Tool": "Hoe",
+		"Misc": null,
+		"Credits": null
+	},
+	{
+		"Block": "Leaves (Dark Oak)",
+		"Location": null,
+		"Coordinates": null,
+		"Tool": null,
+		"Misc": null,
+		"Credits": null
+	}
+]

@@ -1,0 +1,29 @@
+{
+	"name": "minewind-ess-bot",
+	"version": "1.0.0",
+	"main": "main.js",
+	"scripts": {
+		"deployDev": "cross-env NODE_ENV=development nodemon .",
+		"deployProd": "cross-env NODE_ENV=production nodemon .",
+		"deployProdPm2": "pm2 start ecosystem.config.js --env production"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"cross-env": "^7.0.3",
+		"discord.js": "^14.18.0",
+		"dotenv": "^16.4.7",
+		"mysql2": "^3.13.0",
+		"os-utils": "^0.0.14",
+		"pagination.djs": "^4.0.17",
+		"quick.db": "^9.1.7",
+		"winston": "^3.17.0",
+		"winston-daily-rotate-file": "^5.0.0"
+	},
+	"devDependencies": {
+		"eslint": "^9.16.0",
+		"nodemon": "^3.1.7"
+	}
+}

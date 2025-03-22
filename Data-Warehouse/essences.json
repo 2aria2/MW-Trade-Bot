@@ -1,0 +1,2302 @@
+{
+	"Nausea": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Blind": {
+		"1": "CCC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Wither": {
+		"1": "CCC",
+		"2": "BBB",
+		"3": "SS",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Poison": {
+		"1": "C",
+		"2": "CCC",
+		"3": "A",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Slow": {
+		"1": "CC",
+		"2": "B",
+		"3": "AA",
+		"4": "SSS",
+		"5": "Z",
+		"key": "chaos",
+		"Essence Cap": 5
+	},
+	"Bind": {
+		"1": "CCC",
+		"2": "BB",
+		"3": "S",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Cripple": {
+		"1": "BB",
+		"2": "S",
+		"3": "SSS",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Feed Blocker": {
+		"1": "B",
+		"2": "BBB",
+		"3": "SS",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Marker": {
+		"1": "BB",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Magic Disrupt": {
+		"1": "CCC",
+		"2": "BB",
+		"3": "SSS",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Starve": {
+		"1": "B",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Reduce Heal": {
+		"1": "BBB",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Life Steal": {
+		"1": "BBB",
+		"2": "SSS",
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 2
+	},
+	"Bloodlust": {
+		"1": "B",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Mounted Damage": {
+		"1": "C",
+		"2": "B",
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 2
+	},
+	"Lightning Strike": {
+		"1": "B",
+		"2": "BBB",
+		"3": "S",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Freezing Strike": {
+		"1": "BBB",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Recover Undead Strike": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Recover Shadow Strike": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Backstab": {
+		"1": "BBB",
+		"2": "SS",
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 2
+	},
+	"Sage Slayer": {
+		"1": "AA",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Critical Plus": {
+		"1": "A",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Elder Branch": {
+		"1": "BBB",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Satan Sweep": {
+		"1": "BBB",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Instant Mining": {
+		"1": "A",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Increased Melee Damage": {
+		"1": "BB",
+		"2": "S",
+		"3": "Z",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Increased Lightning Damage": {
+		"1": "CC",
+		"2": "CCC",
+		"3": "B",
+		"4": "AA",
+		"5": "SS",
+		"key": "chaos",
+		"Essence Cap": 5
+	},
+	"Increased Magic Damage": {
+		"1": "B",
+		"2": "A",
+		"3": "X",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Increased Arrow Damage": {
+		"1": "C",
+		"2": "CCC",
+		"3": "B",
+		"4": "S",
+		"5": "X",
+		"key": "chaos",
+		"Essence Cap": 5
+	},
+	"Chaos Curse": {
+		"1": "A",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Levitation Shot": {
+		"1": "BB",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Frost Arrow": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Love Strike": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Sticky Explosive": {
+		"1": "BB",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Headshot": {
+		"1": "CC",
+		"2": "BBB",
+		"3": "AAA",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Lava Shot": {
+		"1": "CCC",
+		"2": "BB",
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 2
+	},
+	"Spectre Shot": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Santa Rage": {
+		"1": "CCC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Molotov": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Crouching Web Shot": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Rabbit Shot": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Falken": {
+		"1": "AA",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Heart Extractor": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Decapication": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Unholy Strength": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Chain Shot": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Death Absorption": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Regeneration": {
+		"1": "AA",
+		"2": "SS",
+		"3": "X",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Jump": {
+		"1": "CC",
+		"2": "BB",
+		"3": "BBB",
+		"4": "AA",
+		"5": "SSS",
+		"key": "chaos",
+		"Essence Cap": 5
+	},
+	"Speed": {
+		"1": "B",
+		"2": "BB",
+		"3": "S",
+		"4": "X",
+		"5": "Z",
+		"key": "chaos",
+		"Essence Cap": 5
+	},
+	"Strength": {
+		"1": "B",
+		"2": "S",
+		"3": "SS",
+		"4": "Z",
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 4
+	},
+	"Damage Resistance": {
+		"1": "AAA",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Haste": {
+		"1": "B",
+		"2": "AAA",
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 2
+	},
+	"Absorption": {
+		"1": "BB",
+		"2": "S",
+		"3": "X",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Water Breathing": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Night Vision": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Blindness Immunity": {
+		"1": "BB",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Knockback Immunity": {
+		"1": "A",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Anti-Mage": {
+		"1": "CCC",
+		"2": "A",
+		"3": "SSS",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Sacred Absorption": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Sacred Regen": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Sacred Strength": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Grass Nourishment": {
+		"1": "B",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Exp Gain Boost": {
+		"1": "C",
+		"2": "C",
+		"3": "C",
+		"4": "C",
+		"5": "B",
+		"key": "chaos",
+		"Essence Cap": 5
+	},
+	"Increased Heal Power": {
+		"1": "C",
+		"2": "CC",
+		"3": "CCC",
+		"4": "SS",
+		"5": "SSS",
+		"key": "chaos",
+		"Essence Cap": 5
+	},
+	"Increased Potion Duration": {
+		"1": "B",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Increased Heal & Harm Potion": {
+		"1": "CCC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Fast Potion Recharge": {
+		"1": "B",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Increased Dagger Replenish": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Increased Throwing Damage": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Increased Maximum Daggers": {
+		"1": "C",
+		"2": "C",
+		"3": "CC",
+		"4": "BB",
+		"5": "S",
+		"key": "chaos",
+		"Essence Cap": 5
+	},
+	"Increased Summon Damage": {
+		"1": "CC",
+		"2": "B",
+		"3": "SS",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Maximum Bees": {
+		"1": "C",
+		"2": "CC",
+		"3": "BB",
+		"4": "A",
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 4
+	},
+	"Bee Aggression": {
+		"1": "C",
+		"2": "C",
+		"3": "CCC",
+		"4": "S",
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 4
+	},
+	"Nature Free Cast": {
+		"1": "C",
+		"2": "CC",
+		"3": "BB",
+		"4": "AAA",
+		"5": "X",
+		"key": "chaos",
+		"Essence Cap": 5
+	},
+	"Bite Back": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Spongebob": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Heal On Shield Block": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Lava Walker": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Ice Growth": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Blood Soup": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Baby Horde": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Rabbid Rabbits": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Blood Heal": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Web Spinner": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Polymorph": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Centipede": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Bone Path": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Ignoble Steed": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Water Ball": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Ice Shinto": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Ninja Foxes": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Fire Blast": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Vexers": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Elder Phantom": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Dragon Switch": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Fire Hand": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Ice Bomb": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Skeleton Horse": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Fire Soulmass": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Aegis": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Ghast Chan": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Fire Spiral": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Flame Aegis": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Shadow Fangs": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Dragon Fireball": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Telekinesis": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Mana Spirit": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Honey Cannon": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Flying Turtle": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Skeleton Assassin": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"War Bees": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Ice Prison": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Icengard": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Levitation": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Ball Lightning": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Multiflame": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Bone Spirit": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Invisible Sneak": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Night Goggles": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Jump Rod": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Shoot Web": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Teleport": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Blizzard": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Ice Domain": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Lava Shotgun": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Shadow Swarm": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Magma Orb": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Rage of Zeus": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Woofers": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Web Step": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Black Hole": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Snowmage": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Shadow Form": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Nature Heal": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Flying Panda": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Lava Bolt": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Dragon Leap": {
+		"1": "BB",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Grug Charge": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Blood Drain": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Blessed Snow": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Dimension Steed": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Morbin Time": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Escape Skeleton": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Giant Snowball": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Exploding Chickens": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Puchita": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Ice Path": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Shadow Saw": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Skeleton Archer": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Curse Skull": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Zombie Horse": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Bat Blink": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Sneak Fortitication": {
+		"1": "CCC",
+		"2": "S",
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 2
+	},
+	"Tornado": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Quickstep": {
+		"1": "A",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Dragon Spawn": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Flying Brown Panda": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Teleport Behind": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Vanishing Teleport": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Safe Teleport": {
+		"1": "TBD",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Berry Bush": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Fire Soul": {
+		"1": null,
+		"2": "C",
+		"3": "CC",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Increased Fire Recharge": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 1
+	},
+	"Ice Soul": {
+		"1": null,
+		"2": "CC",
+		"3": "B",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Nature Soul": {
+		"1": null,
+		"2": "CC",
+		"3": "B",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Increased Elemental Recharge": {
+		"1": "CCC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 1
+	},
+	"Shadow Soul": {
+		"1": null,
+		"2": "C",
+		"3": "CC",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Blood Soul": {
+		"1": null,
+		"2": "C",
+		"3": "CC",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Fast Blood Recharge": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": null
+	},
+	"Blood Ground Siphon": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 1
+	},
+	"Undead Soul": {
+		"1": null,
+		"2": "C",
+		"3": "CC",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Orc Soul": {
+		"1": null,
+		"2": "C",
+		"3": "C",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Dragon Soul": {
+		"1": null,
+		"2": "CC",
+		"3": "B",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Increased Dark Recharge": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 1
+	},
+	"Increased Dragon Recharge": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 1
+	},
+	"Beast Soul": {
+		"1": null,
+		"2": "C",
+		"3": "BB",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},
+	"Dimension Soul": {
+		"1": null,
+		"2": "C",
+		"3": "CC",
+		"4": null,
+		"5": null,
+		"key": "chaos",
+		"Essence Cap": 3
+	},"Arrow Strike": {
+		"1": "AAA",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "dimensional",
+		"Essence Cap": null
+	},
+	"Fatal Strike": {
+		"1": "SSS",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "dimensional",
+		"Essence Cap": null
+	},
+	"Ice Coffin Strike": {
+		"1": "B",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "dimensional",
+		"Essence Cap": null
+	},
+	"Soul Break": {
+		"1": "B",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "dimensional",
+		"Essence Cap": null
+	},
+	"Healthy Strike": {
+		"1": "S",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "dimensional",
+		"Essence Cap": null
+	},
+	"Untouchable": {
+		"1": "BBB",
+		"2": "S",
+		"3": "X",
+		"4": null,
+		"5": null,
+		"key": "dimensional",
+		"Essence Cap": 4
+	},
+	"Reflect On Melee Block": {
+		"1": "B",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "dimensional",
+		"Essence Cap": null
+	},
+	"Shadowmeld": {
+		"1": "B",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "dimensional",
+		"Essence Cap": null
+	},
+	"Heightened Senses": {
+		"1": "B",
+		"2": "AA",
+		"3": "SS",
+		"4": null,
+		"5": null,
+		"key": "dimensional",
+		"Essence Cap": 4
+	},
+	"Stability Field": {
+		"1": "CCC",
+		"2": "A",
+		"3": "S",
+		"4": null,
+		"5": null,
+		"key": "dimensional",
+		"Essence Cap": 3
+	},
+	"Decreased Infinity Block Cooldown": {
+		"1": "B",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "dimensional",
+		"Essence Cap": null
+	},
+	"Frost Armor": {
+		"1": "CCC",
+		"2": "AA",
+		"3": "S",
+		"4": null,
+		"5": null,
+		"key": "dimensional",
+		"Essence Cap": 4
+	},
+	"Increased Infinity Blocks Placed": {
+		"1": "B",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "dimensional",
+		"Essence Cap": null
+	},
+	"Static Field": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "dimensional",
+		"Essence Cap": null
+	},
+	"Life Swap": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "dimensional",
+		"Essence Cap": null
+	},
+	"Summon Dimension Anomaly": {
+		"1": "S",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "dimensional",
+		"Essence Cap": null
+	},
+	"Water Eater": {
+		"1": "B",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "dimensional",
+		"Essence Cap": null
+	},
+	"Ender Pearl Dispencer": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "dimensional",
+		"Essence Cap": null
+	},
+	"Mass Polymorph": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "dimensional",
+		"Essence Cap": null
+	},"Aquatic Explosion": {
+		"1": "B",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": null
+	},
+	"Death Claw Critical": {
+		"1": "SS",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": null
+	},
+	"High Gravity Critical": {
+		"1": "SSS",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": null
+	},
+	"Magma Critical": {
+		"1": "CCC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": null
+	},
+	"Water Shot": {
+		"1": "B",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": null
+	},
+	"Dark Seed Explosion": {
+		"1": "A",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": null
+	},
+	"Volcanic Explosion": {
+		"1": "A",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": null
+	},
+	"Flower Healing": {
+		"1": "C",
+		"2": "B",
+		"3": "S",
+		"4": null,
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": 3
+	},
+	"Backstab Resistance": {
+		"1": "C",
+		"2": "CCC",
+		"3": "B",
+		"4": null,
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": 3
+	},
+	"Explosion Resistance": {
+		"1": "C",
+		"2": "CCC",
+		"3": "B",
+		"4": null,
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": 3
+	},
+	"Headshot Resistance": {
+		"1": "C",
+		"2": "CC",
+		"3": "B",
+		"4": null,
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": 3
+	},
+	"Poison Resistance": {
+		"1": "C",
+		"2": "CC",
+		"3": "CCC",
+		"4": "B",
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": 4
+	},
+	"Wither Resistance": {
+		"1": "C",
+		"2": "CC",
+		"3": "CCC",
+		"4": "B",
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": 4
+	},
+	"Meteor Storm": {
+		"1": "BBB",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": null
+	},
+	"Soul Chain": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": null
+	},
+	"Gravity Well": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": null
+	},
+	"Sonic Slash": {
+		"1": "S",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": null
+	},
+	"Flower Field": {
+		"1": "B",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": null
+	},
+	"Summon Woods": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": null
+	},
+	"Parrot Form": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": null
+	},
+	"Deep Freeze": {
+		"1": "BB",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "inferno",
+		"Essence Cap": null
+	},"Curse of Living Flames": {
+		"1": "TBD",
+		"2": "TBD",
+		"3": "SS",
+		"4": null,
+		"5": null,
+		"key": "tempest",
+		"Essence Cap": 3
+	},
+	"Explosive Webbing": {
+		"1": "TBD",
+		"2": "TBD",
+		"3": "X",
+		"4": null,
+		"5": null,
+		"key": "tempest",
+		"Essence Cap": 3
+	},
+	"Vampire Strike": {
+		"1": "SSS",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "tempest",
+		"Essence Cap": null
+	},
+	"Fertile Strike": {
+		"1": "BB",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "tempest",
+		"Essence Cap": null
+	},
+	"Groundbreak Crit": {
+		"1": "A",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "tempest",
+		"Essence Cap": null
+	},
+	"Fairy Barrier": {
+		"1": "BBB",
+		"2": "AA",
+		"3": "X",
+		"4": "Z",
+		"5": null,
+		"key": "tempest",
+		"Essence Cap": 4
+	},
+	"Web Eater": {
+		"1": "BB",
+		"2": "A",
+		"3": "SS",
+		"4": "SSS",
+		"5": null,
+		"key": "tempest",
+		"Essence Cap": 4
+	},
+	"Gravity Resistance": {
+		"1": "BB",
+		"2": "A",
+		"3": "X",
+		"4": "Z",
+		"5": null,
+		"key": "tempest",
+		"Essence Cap": 4
+	},
+	"Blood Walker": {
+		"1": "BBB",
+		"2": "AA",
+		"3": "SSS",
+		"4": "TBD",
+		"5": null,
+		"key": "tempest",
+		"Essence Cap": 3
+	},
+	"Ghost Block": {
+		"1": "G",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "tempest",
+		"Essence Cap": null
+	},
+	"Poseidon Block": {
+		"1": "G",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "tempest",
+		"Essence Cap": null
+	},
+	"Railgun": {
+		"1": "SS",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "tempest",
+		"Essence Cap": null
+	},
+	"Mass Levitation": {
+		"1": "B",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "tempest",
+		"Essence Cap": null
+	},
+	"Swap Gate": {
+		"1": "BBB",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "tempest",
+		"Essence Cap": null
+	},
+	"Entangling Roots": {
+		"1": "A",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "tempest",
+		"Essence Cap": null
+	},
+	"Living Wings": {
+		"1": "G",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "tempest",
+		"Essence Cap": null
+	},
+	"Condensed Lightning": {
+		"1": "AA",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "tempest",
+		"Essence Cap": null
+	},"Cake On Kill": {
+		"1": "B",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": null
+	},
+	"Repeating Arrow": {
+		"1": "A",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": null
+	},
+	"Fang Strike": {
+		"1": "BB",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": null
+	},
+	"Slayer Of The Blind": {
+		"1": "A",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": null
+	},
+	"Absorption On Teleport": {
+		"1": "CCC",
+		"2": "AA",
+		"3": "SS",
+		"4": null,
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": 3
+	},
+	"Ice Pedestal": {
+		"1": "BB",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": null
+	},
+	"Rain Healing": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": null
+	},
+	"Back Claymore": {
+		"1": "BB",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": null
+	},
+	"Nausea Immunity": {
+		"1": "C",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": null
+	},
+	"Weakness Resistance": {
+		"1": "BBB",
+		"2": "S",
+		"3": "X",
+		"4": "X",
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": 4
+	},
+	"Proximity Blind": {
+		"1": "AAA",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": null
+	},
+	"Slow Resistance": {
+		"1": "B",
+		"2": "A",
+		"3": "SSS",
+		"4": "Z ",
+		"5": "Z ",
+		"key": "paradox",
+		"Essence Cap": 5
+	},
+	"Photosynthesis": {
+		"1": "B",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": null
+	},
+	"Heal On Teleport": {
+		"1": "BBB",
+		"2": "S",
+		"3": "X",
+		"4": null,
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": 3
+	},
+	"Fatigue Resistance": {
+		"1": "B",
+		"2": "SS",
+		"3": "SSS",
+		"4": "X",
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": 4
+	},
+	"Goatfather": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": null
+	},
+	"Curse Of Fangs": {
+		"1": "BBB",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": null
+	},
+	"Force Field": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": null
+	},
+	"Skeleton On Teleport": {
+		"1": "A",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": null
+	},
+	"Lava Eater": {
+		"1": "B",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": null
+	},
+	"Spontanious combustion": {
+		"1": "CC",
+		"2": null,
+		"3": null,
+		"4": null,
+		"5": null,
+		"key": "paradox",
+		"Essence Cap": null
+	}
+}

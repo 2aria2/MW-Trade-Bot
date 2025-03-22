@@ -1,0 +1,30 @@
+{
+	"Essences": {
+		"Z": "Bidding Wars",
+		"X": "1-2 Sheggs",
+		"SSS": "15s-26s",
+		"SS": "9s-15s",
+		"S": "7s-9s",
+		"AAA": "7s",
+		"AA": "6s",
+		"A": "5s",
+		"BBB": "4s",
+		"BB": "3s",
+		"B": "2s",
+		"CCC": "1s or less",
+		"CC": "32d or less",
+		"C": "16d or less",
+		"TBD": "Not Traded Yet",
+		"G": "Unspecified as price of the essence is tied to the enchantment of the item, this item does not have an essence form."
+	},
+	"Blocks": {
+		"AAA": "7s",
+		"AA": "6s",
+		"A": "5s",
+		"BBB": "4s",
+		"BB": "3s",
+		"B": "2s",
+		"CC": "1s - 1.5s",
+		"C": "32d or less"
+	}
+}
