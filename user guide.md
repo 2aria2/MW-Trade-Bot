@@ -13,10 +13,6 @@
 - Usage: `/ping`
 - Description: Check if the bot is online and responsive
 
-### Add Link Command
-- Usage: `/addlink`
-- Description: Add useful links to the bot's database
-
 ## Essence Commands
 
 ### Essence Price
