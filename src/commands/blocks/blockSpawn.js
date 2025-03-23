@@ -66,7 +66,7 @@ module.exports = {
 			});
 		} catch (error) {
 			logError("error in blockSpawn", error);
-			return interactionCreate.reply({
+			return await interactionCreate.reply({
 				content: "An error occurred while processing the request.",
 				flags: MessageFlags.Ephemeral
 			});

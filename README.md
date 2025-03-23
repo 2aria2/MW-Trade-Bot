@@ -11,14 +11,15 @@ This bot aims to serve the Minewind community with essential functionality witho
 - Manage sell lists for essences and blocks
 - Search and view items for sale
 - Get seller information
+- Buy list system for players to post their purchase requests
 - And more!
 
 ## Planned Features
 
 The following features are planned for future updates:
 
-- Buy list system for players to post their purchase requests
 - Aura-related commands for tracking and trading
+- Bounties (for specific item requirements that users has put out)
 - Regular item trading support
 - Additional quality-of-life improvements based on community feedback
 
@@ -35,7 +36,7 @@ The following features are planned for future updates:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/minewind-ess-bot.git
+git clone https://github.com/2aria2/minewind-ess-bot.git
 cd minewind-ess-bot
 ```
 

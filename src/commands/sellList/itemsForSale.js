@@ -12,7 +12,7 @@ module.exports = {
 	async execute(interactionCreate, interactionAuthorID) {
 		try {
 			const arrayOfItemsOnSale = await getAllItemsForSale();
-			if(!arrayOfItemsOnSale || arrayOfItemsOnSale.length == 0) return interactionCreate.reply({
+			if(!arrayOfItemsOnSale || arrayOfItemsOnSale.length == 0) return await interactionCreate.reply({
 				content: "No Items on sale yet.",
 				flags: MessageFlags.Ephemeral
 			});

@@ -18,7 +18,7 @@ const handleCategoryHelp = async (interaction, commandCollection, category) => {
 		.filter(cmd => cmd.category.toLowerCase() === category.toLowerCase());
 
 	if (categoryCommands.length === 0) {
-		return interaction.reply({
+		return await interaction.reply({
 			content: "No commands found in this category!",
 			flags: MessageFlags.Ephemeral
 		});
@@ -31,7 +31,7 @@ const handleCategoryHelp = async (interaction, commandCollection, category) => {
 		inline: true
 	});
 
-	return interaction.reply({ embeds: [helpEmbed], flags: MessageFlags.Ephemeral });
+	return await interaction.reply({ embeds: [helpEmbed], flags: MessageFlags.Ephemeral });
 };
 
 const handleCommandHelp = async (interaction, commandCollection, commandName) => {
@@ -39,7 +39,7 @@ const handleCommandHelp = async (interaction, commandCollection, commandName) =>
 		commandCollection.find(x => x.aliases && x.aliases.includes(commandName));
 
 	if (!command) {
-		return interaction.reply({
+		return await interaction.reply({
 			content: "Command not found!",
 			flags: MessageFlags.Ephemeral
 		});
@@ -54,7 +54,7 @@ const handleCommandHelp = async (interaction, commandCollection, commandName) =>
 		{ name: "Description", value: command.description }
 	);
 
-	return interaction.reply({ embeds: [helpEmbed], flags: MessageFlags.Ephemeral });
+	return await interaction.reply({ embeds: [helpEmbed], flags: MessageFlags.Ephemeral });
 };
 
 // Command module
@@ -126,7 +126,7 @@ module.exports = {
 			const options = interaction.options._hoistedOptions;
 
 			if (options.length > 1) {
-				return interaction.reply({
+				return await interaction.reply({
 					content: "Please provide only one argument (either category or command).",
 					flags: MessageFlags.Ephemeral
 				});
@@ -141,7 +141,7 @@ module.exports = {
 					value: "`help <category>`\n\n`" + categories.join("`, `") + "`",
 					inline: true
 				});
-				return interaction.reply({ embeds: [helpEmbed], flags: MessageFlags.Ephemeral });
+				return await interaction.reply({ embeds: [helpEmbed], flags: MessageFlags.Ephemeral });
 			}
 
 			const { value } = options[0];
@@ -154,7 +154,7 @@ module.exports = {
 			return handleCommandHelp(interaction, commandCollection, value.toLowerCase());
 		} catch (error) {
 			console.error("Error in help command:", error);
-			return interaction.reply({
+			return await interaction.reply({
 				content: "An error occurred while processing the request.",
 				flags: MessageFlags.Ephemeral
 			});

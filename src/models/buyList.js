@@ -43,7 +43,7 @@ module.exports.buyListModel = {
 	async findUsersByItem(itemName) {
 		try {
 			const db = await initializeDB();
-			const buyers = await db.get(`buyers.${itemName}`);
+			const buyers = await db.get(`buyers.${itemName}`) || [];
 			return buyers;
 		} catch(error) {
 			logError("error reading findUsersByItem from buyList Model", { error, itemName });
@@ -54,7 +54,7 @@ module.exports.buyListModel = {
 		try {
 			const db = await initializeDB();
 			const items = await db.get(`buy.${discordUserId}`) || [];
-			return Object.entries(items).map(items => `${items[0]}: ${items[1]}`) || [];
+			return Object.entries(items).map(items => `${items[0]}: ${items[1]}`);
 		} catch(error) {
 			logError("error reading getAllUserItems from buyList Model", { error, discordUserId });
 			throw error;
@@ -73,8 +73,8 @@ module.exports.buyListModel = {
 	async getItemsForPurchase(itemName) {
 		try {
 			const db = await initializeDB();
-			const itemsForSale = await db.get(`buyers`);
-			return Object.keys(itemsForSale).filter(item => item && item.toLowerCase().trim().includes(itemName.toLowerCase().trim()));
+			const itemsForSale = await db.get(`buyers`) || [];
+			return Object.keys(itemsForSale).filter(item => item && item.toLowerCase().trim().includes(itemName.toLowerCase().trim())) || [];
 		} catch(error) {
 			logError("error reading getItemsForPurchase from buyList Model", { error });
 			throw error;

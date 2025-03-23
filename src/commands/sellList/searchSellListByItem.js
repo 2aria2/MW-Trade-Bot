@@ -40,6 +40,9 @@ module.exports = {
 		try {
 			const selectedItemName = interactionCreate.options.getString("item");
 			const arrayOfSellers = await findUsersByItem(selectedItemName);
+			if (!arrayOfSellers || arrayOfSellers.length == 0) {
+				return await interactionCreate.reply({ flags: MessageFlags.Ephemeral, content: `No sellers of this item` });
+			}
 
 			// pagination
 			const pagination = new Pagination(interactionCreate, { ephemeral: true });
@@ -48,16 +51,12 @@ module.exports = {
 
 
 			for (let i = 0; i < NumberOfPages; ++i) {
+				const newEmbed = new EmbedBuilder().setTitle(`Sellers of: ${selectedItemName}`);
 				const startIndex = i * 30;
 				const endIndex = Math.min(startIndex + 30, arrayOfSellers.length);
 				const pageSellers = arrayOfSellers.slice(startIndex, endIndex);
-				const newEmbed = new EmbedBuilder().setTitle(`Sellers of: ${selectedItemName}`);
-				if(pageSellers.length == 0) {
-					newEmbed.setDescription("No Sellers!");
-				} else {
-					newEmbed.setDescription("<@" + pageSellers.join(">\n<@") + ">");
-				}
-			
+				newEmbed.setDescription("<@" + pageSellers.join(">\n<@") + ">");
+
 				embeds.push(newEmbed);
 			}
 

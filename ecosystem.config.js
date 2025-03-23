@@ -3,7 +3,7 @@ module.exports = {
 		{
 			name: "MW-Trade-Bot",  // Name of your application
 			script: "./main.js",  // Entry point of your application
-			watch: true,  // Enable automatic restarts on file changes
+			watch: false,  // Enable automatic restarts on file changes
 			env_production: {
 				NODE_ENV: "production",  // Environment variables for production
 			},

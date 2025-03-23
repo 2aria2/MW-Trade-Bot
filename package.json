@@ -4,7 +4,7 @@
 	"main": "main.js",
 	"scripts": {
 		"deployDev": "cross-env NODE_ENV=development nodemon .",
-		"deployProd": "cross-env NODE_ENV=production nodemon .",
+		"deployProd": "cross-env NODE_ENV=production node .",
 		"deployProdPm2": "pm2 start ecosystem.config.js --env production"
 	},
 	"keywords": [],

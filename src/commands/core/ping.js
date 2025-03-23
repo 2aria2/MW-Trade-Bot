@@ -6,7 +6,7 @@ module.exports = {
 	description: "Pong!",
 	async execute(interactionCreate) {
 		try {
-			return interactionCreate.reply(`\nPing: ${Date.now() - interactionCreate.createdTimestamp} ms\nAPI latency: ${bot.ws.ping} ms`);
+			return await interactionCreate.reply(`\nPing: ${Date.now() - interactionCreate.createdTimestamp} ms\nAPI latency: ${bot.ws.ping} ms`);
 		} catch (error) {
 			// Error handling
 			await interactionCreate.reply({
